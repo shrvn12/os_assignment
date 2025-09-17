@@ -1,0 +1,5 @@
+Enter PID to inspect: 8165
+Process Name : systemd-udevd
+Process State: S (sleeping)
+Memory Usage : 35684 kB
+

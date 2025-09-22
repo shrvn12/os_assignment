@@ -1,9 +1,0 @@
-=== Task 3: Zombie & Orphan Processes ===
-1. Zombie process demo
-2. Orphan process demo
-Enter choice: 1
-[Parent] PID=1909, created child PID=1990
-[Parent] Not calling wait(), sleeping... Run 'ps -el | grep defunct' to see zombie.
-[Child] PID=1990, Parent PID=1909 -> Exiting now.
-
-
